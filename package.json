@@ -1,0 +1,28 @@
+{
+  "name": "file-editor",
+  "version": "1.0.0",
+  "description": "Command Line Argument Based Calculator in Node.js\r Maximum Marks - 12\r Create a command line argument based calculator using Node.js that takes in mathematical operations and numbers as arguments from the terminal and provides the appropriate output. The calculator should support the following operations (command for the particular operation are given in \"()\" , use those commands only ):",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest app.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.39.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.7.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "jest": "^29.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ritesh20101998/CI-CD.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ritesh20101998/CI-CD/issues"
+  },
+  "homepage": "https://github.com/Ritesh20101998/CI-CD#readme"
+}
